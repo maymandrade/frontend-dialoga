@@ -52,3 +52,4 @@ export default function Modal({ aberto, titulo, onFechar, children }) {
     </dialog>
   )
 }
+
